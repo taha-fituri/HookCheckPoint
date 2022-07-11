@@ -2,8 +2,6 @@ import "./App.css";
 import React, { useState } from "react";
 import NavBar from "./Components/NavBar/NavBar";
 import Footer from "./Components/Footer/Footer";
-// import Filter from "./Components/Filters/Filter";
-// import Modal1 from "./Components/Modal/Modal";
 import MovieList from "./Components/MovieComponents/MovieList";
 import { moviesData } from "./Sources/MovieData";
 
