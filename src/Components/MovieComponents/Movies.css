@@ -1,0 +1,15 @@
+.moviediv {
+  display: flex;
+  justify-content: space-around;
+  align-items: baseline;
+  padding-top: 2%;
+  margin: 0 9%;
+  flex-wrap: wrap;
+}
+.Card {
+  background-color: rgb(38, 38, 38) !important;
+  color: white;
+}
+.Cardcontain {
+  margin: 1%;
+}
